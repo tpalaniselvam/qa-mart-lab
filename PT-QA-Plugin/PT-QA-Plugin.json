@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "pt-qa",
+  "version": "2.0.0",
+  "description": "PT-QA: QA Mart testing plugin with instructions, prompt files, skills, agents, an MCP server and guardrail hooks for Playwright test design, review and failure triage.",
+  "keywords": ["playwright", "testing", "qa", "mcp", "qamart", "hooks"],
+  "license": "MIT"
+}
+
+
